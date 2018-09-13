@@ -1,10 +1,6 @@
-Huffman-Compression
-===================
-
-Simple Python implementation of Huffman coding for compressing text files.
 The Huffman coding compression program works very simply to compress text files.
 Here is the user interface:
-> python2 huffman.py [compress/decompress] [filename]
+> python huffman.py [compress/decompress] [filename]
 When compressing, a file is saved as fileName + "Compressed.txt".
 IT DOES NOT DELETE ORIGINAL FILE! For practical applications, the original file would of course be deleted.
 
